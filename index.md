@@ -173,7 +173,7 @@ Esempio pratico
 Crea un loop dove stampa solo Hello.
 
 Analizzando il codice al suo interno c'è un bait all'interno del if.
-Una best practice sarebbe quella di non far scattare mai if ma far scattare solo else.
+Una delle partiche più comuni sarebbe quella di non far scattare mai if o i vari else if ma far scattare solo else, o viceversa far scattare un else if su 10 else if presenti. 
 
 
 
